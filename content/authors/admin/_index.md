@@ -14,8 +14,8 @@ role: PhD Student in Computer Science.
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: City University of Hong Kong
+  url: "https://www.cityu.edu.hk/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
